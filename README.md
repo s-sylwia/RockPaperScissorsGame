@@ -27,8 +27,7 @@ You can modify the following parameters in the `Score` class to customize the ga
 - `LOSE_MESSAGE`: The message displayed when the computer wins the game.
 - `OPTIONS`: An array of options to choose from. By default, it includes "rock," "paper," and "scissors."
 
-Feel free to explore and modify the code to enhance the game or add new features!
 
 ## Dependencies
 
-This program uses the Lombok library for automatic generation of getters, setters, and other boilerplate code. Make sure to include the Lombok dependency in your project.
+This program uses the Lombok library for automatic generation of getters, setters, and other boilerplate code. 
