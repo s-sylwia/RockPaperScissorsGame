@@ -1,15 +1,10 @@
-# RockPaperScissorsGame
-This is a simple Java program that allows you to play the game of Rock Paper Scissors against the computer. The program keeps track of your score and the computer's score, and the game continues until one of the players reaches the winning score.
-Usage
+# Rock Paper Scissors Game
 
-To run the program, simply execute the randomize() method in the Score class. The program will prompt you
-User
-chodz mi o taki kod w ktorym sie pisze readme
-ChatGPT
 
-plaintext
+**Note: This program is still under development. More features will be added soon.**
 
-# Rock Paper Scissors Score
+
+
 
 This is a Java program that implements the game of Rock Paper Scissors. It allows you to play against the computer and keeps track of the scores. The game continues until one of the players reaches the winning score.
 
